@@ -1,0 +1,20 @@
+{
+  "name": "homepage-rice",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "babel-plugin-styled-components": "^1.10.6",
+    "next": "^9.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^4.4.1"
+  },
+  "description": "Homepage to match my Pop_OS! GNOME rice",
+  "main": "pages/index.js",
+  "author": "Brandon Ubben",
+  "license": "ISC"
+}
